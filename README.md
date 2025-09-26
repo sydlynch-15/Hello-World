@@ -30,4 +30,8 @@ Discussed all programming languages and tools used in this project. This could i
 - Where you got them
 - What is contained within the data files?
 - Datafile considerations
-- URL links to files - example here: [Powerball Lottery Winning Numbers since 2010](url)
+- URL links to files - example here: [Powerball Lottery Winning Numbers since 2010](https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
+
+## How to Run Program
+
+Explain here how you would run the program and what files need to be available.
