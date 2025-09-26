@@ -25,9 +25,9 @@ Discussed all programming languages and tools used in this project. This could i
 
 ## Files Used
 
-Did you use any datafiles?
-List filenames
-Where you got them
-What is contained within the data files?
-Datafile considerations
-URL links to files - example here: [Powerball Lottery Winning Numbers since 2010](url)
+- Did you use any datafiles?
+- List filenames
+- Where you got them
+- What is contained within the data files?
+- Datafile considerations
+- URL links to files - example here: [Powerball Lottery Winning Numbers since 2010](url)
